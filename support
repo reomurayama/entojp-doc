@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サポート - かざして翻訳</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .button { display: inline-block; padding: 10px 20px; background-color: #007AFF; color: white; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+        .footer { margin-top: 50px; font-size: 0.8em; color: #888; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>サポート (Support)</h1>
+    <p>「かざして翻訳」をご利用いただきありがとうございます。<br>
+    アプリに関するご質問、不具合の報告、ご要望などがございましたら、以下のメールアドレスまでお問い合わせください。</p>
+    <h2>お問い合わせ先</h2>
+    <p>以下のボタンをクリックしてメールを送信するか、アドレス宛に直接ご連絡ください。</p>
+    
+    <!-- ※以下のメールアドレスをご自身のものに書き換えてください -->
+    <a href="mailto:chachaneko0161@gmail.com" class="button">メールで問い合わせる</a>
+    <p><strong>chachaneko0161@gmail.com</strong></p>
+    <h2>よくある質問</h2>
+    <h3>Q. 翻訳が動作しません</h3>
+    <p>A. カメラのアクセス権限が許可されているか、iPhoneの設定アプリから確認してください。</p>
+    <div class="footer">
+        &copy; 2025 かざして翻訳 All rights reserved.
+    </div>
+</body>
+</html>
